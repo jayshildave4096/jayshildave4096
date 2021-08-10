@@ -40,7 +40,7 @@
 
 ---
 
-[website]: https://codeSTACKr.com
+[website]: https://linkedin.com/in/jayshildave
 [twitter]: https://twitter.com/jayshil_dave
 [youtube]: https://youtube.com/channel/UCo5xkqzA6XSiIyIg2wYWF-Q
 [instagram]: https://www.instagram.com/jayshil_dave/
